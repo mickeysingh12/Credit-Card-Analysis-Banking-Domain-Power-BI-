@@ -11,12 +11,11 @@ This project focuses on **Credit Card Usage Data Analysis** and provides insight
 
 The dataset consists of **credit card transactions and customer details** from various CSV files. The key CSV files used are:
 
-- `cc_add.csv`
-- `credit_card.csv`
-- `cust_add.csv`
-- `customer.csv`
+- `cc_add.csv`: https://drive.google.com/file/d/1qqyow8W4HL3T-XLTplwOAMZIPvTil0CN/view?usp=sharing
+- `credit_card.csv`: https://drive.google.com/file/d/1iPBGUdGyegZguuSBz7kM2EM4fk-_iyaz/view?usp=sharing
+- `cust_add.csv`: https://drive.google.com/file/d/12NAsxjs6zzxL7PkDRGmdVjhzoraE0IZC/view?usp=sharing
+- `customer.csv`: https://drive.google.com/file/d/17N1ff8e8NpmcWaNwS1OaPfQS7KdBhB49/view?usp=sharing link
 
-Dataset Link: https://drive.google.com/drive/u/4/folders/1qG3HDIhU6Hpq0pqaIMX70zjdtON9WPLb
 
 ### Data Preparation 🛠️
 
